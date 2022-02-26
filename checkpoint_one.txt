@@ -17,8 +17,12 @@ Use the print () function
 Use variables and example is x = 10
 
 6) What can I do to prevent certain files and directories from being tracked by git?
+Use .gitignore and place the directory that you dont want tracked in that file,
+and place files that you dont want tracked in that file 
 
 7) What can be used in order to repeat some block of code? Provide 2 examples.
+A function, dict() and format() are python functions 
+
 
 8) When saving a value for later use what type of operator do we use?
 
