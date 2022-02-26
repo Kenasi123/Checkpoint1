@@ -37,7 +37,18 @@ Python lists variables can change while in tuples they cannot.
 11) What can I do to know where I am within my file system?
 pwd 
 
-12) Describe the anatomy of a Python dictionary and create one below.
+12) Describe the anatomy of a Python dictionary and create one below. 
+
+Dictionaries are used to define value key pairs  
+
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+print(thisdict["brand"]) 
+Model and mustang are key value pairs 
+
 
 13) What type of values can be in a Python dictionary?
 
