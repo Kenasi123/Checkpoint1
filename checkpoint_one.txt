@@ -51,6 +51,7 @@ Model and mustang are key value pairs
 
 
 13) What type of values can be in a Python dictionary?
+key value pairs 
 
 14) What type of values can be in a Python list?
 
