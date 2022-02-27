@@ -72,6 +72,7 @@ Index 1
 The front end includes Java script,CSS,HTML, and is code that relates to styling and structure of frameworks. 
 
 20) What does backend / server side mean?
+ It include code in python, translator, and machine code. 
 
 21) What are 3 way to create a Python string?
 
