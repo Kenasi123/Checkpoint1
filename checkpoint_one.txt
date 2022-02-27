@@ -186,6 +186,7 @@ git log --oneline
 append() method is used 
 
 39) How can I remove a value from a Python list?
+pop() method removes a value 
 
 40) How can I access a value in a Python dictionary?
 
