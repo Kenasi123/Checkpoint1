@@ -181,7 +181,9 @@ Set a variable to the input method Username = input(“”)
 
 git log --oneline
 
-38) How can I add a value to a Python list?
+38) How can I add a value to a Python list? 
+
+append() method is used 
 
 39) How can I remove a value from a Python list?
 
