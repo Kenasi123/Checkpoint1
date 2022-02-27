@@ -81,6 +81,7 @@ You can make a string print ("Hello World") or ('Hello World') or "Hello World"
 Integers and floats 
 
 23) Are we able to add two strings together? How?
+We can use the operations print ("Kenasia" +" "+ "Turner")
 
 24) What commands would you use to create the following file structure? (write every command line by line):
     
@@ -93,7 +94,7 @@ Integers and floats
         -> tiktok
             -> clips
             -> app.py
-25) What is the path to profile_image.jpg?
+25) What is the path to profile_image.jpg? 
 
 26) What commands can I use to get from the clips directory to the images directory? (write every command line by line):
 
