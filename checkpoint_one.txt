@@ -159,6 +159,13 @@ not	Reverse the result, returns False if the result is true
 
 33) How can we decide to run one piece of code versus another? Provide an example.
 
+Do a if else statement : 
+
+a = 33
+b = 200
+if b > a:
+  print("b is greater than a")
+
 34) What can I do to work on my primary code, but not mess it up? Provide an example.
 
 35) What do I do in order to make sure I have the latest code on my machine?
