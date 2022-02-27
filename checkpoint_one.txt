@@ -206,6 +206,7 @@ A pull request is a request to pull changes of code from our local into the main
 They have remote servers that can store larger amounts of code than the ram on our local computers. 
 
 45) How can I create a git branch?
+Git branch (branch name) 
 
 46) How can I switch to another branch?
 
