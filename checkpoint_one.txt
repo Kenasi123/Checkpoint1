@@ -215,6 +215,10 @@ Git checkout (branch name)
     The changes will not merge properly because they will all be saved from that one branch in time. Changes have to made to the branch then added to master branch on the remote hub for those changes to be saved. 
 48) What are the 3 stages of of tracking our work with git?
 
+Git add .
+Git commit -m “”
+Git push
+
 49) What are the commands we'd use, in order, to move our changes through these stages?
 
 50) Is spacing in my Python code important? Why?
