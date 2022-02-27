@@ -197,8 +197,10 @@ Using the del or the popitem()
 42) How can I change a value in a Python dictionary?
 
 thisdict["year"] = 2018 
- 
+Define the item you want to change and set equal to another variable or use the update() method 
+
 43) What is a pull request? Describe it in detail.
+A pull request is a request to pull changes of code from our local into the main server and merges the code into the remote code. This work has to be reviewed often before merging and explains what changes you have made in your code. 
 
 44) Why do we use services like Github?
 
