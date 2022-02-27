@@ -221,4 +221,11 @@ Git push
 
 49) What are the commands we'd use, in order, to move our changes through these stages?
 
+git branch - branch name 
+git checkout - branch name
+git add - name of file 
+git commit - m "message" 
+git push -u origin branch name 
+
+
 50) Is spacing in my Python code important? Why?
