@@ -203,6 +203,7 @@ Define the item you want to change and set equal to another variable or use the 
 A pull request is a request to pull changes of code from our local into the main server and merges the code into the remote code. This work has to be reviewed often before merging and explains what changes you have made in your code. 
 
 44) Why do we use services like Github?
+They have remote servers that can store larger amounts of code than the ram on our local computers. 
 
 45) How can I create a git branch?
 
