@@ -172,6 +172,7 @@ Create a branch and make your changes on that branch, then have a pull request a
  
 35) What do I do in order to make sure I have the latest code on my machine?
 
+Python -V
 36) How can I accept user input into my Python code?
 
 37) How can I see all of my git commits?
