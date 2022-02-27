@@ -117,6 +117,10 @@ We can use the operations print ("Kenasia" +" "+ "Turner")
 cd Desktop/projects/instagram/images/ 
 
 26) What commands can I use to get from the clips directory to the images directory? (write every command line by line):
+(write every command line by line):
+cd ..
+cd .. 
+cd Instagram/images/ 
 
 27) What method can I use to change this string from "troy" to "Troy"? 
 
