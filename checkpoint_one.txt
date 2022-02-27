@@ -78,6 +78,7 @@ The front end includes Java script,CSS,HTML, and is code that relates to styling
 You can make a string print ("Hello World") or ('Hello World') or "Hello World"
 
 22) What are 2 types of number data types in Python? Provide an example.
+Integers and floats 
 
 23) Are we able to add two strings together? How?
 
